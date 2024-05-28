@@ -1,2 +1,2 @@
-# Machine_Learning_codes
+# Machine learning codes
 Self-paced codes on machine learning algorithms
